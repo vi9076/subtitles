@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/vi9076/subtitles.png?columns=all)](https://waffle.io/vi9076/subtitles?utm_source=badge)
 # subtitles
 Subtitles translation for technical videos (Linux, LinkIt 7688, etc). Translating from Chinese to English.
 
